@@ -20,4 +20,3 @@ console.log(result5);
 console.log(result6);
 console.log(result7);
 console.log(result8);
-
