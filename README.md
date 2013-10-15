@@ -30,5 +30,5 @@ I have 2 days delay for this section. It's not easy to stay focus with lots of u
 
 * First Project—A Dynamic Quiz
 
-Before start
+###Before start
 It seems that this would be a huge section -- 9 chapters reading, learning a new editor and building first js project. Hopefully I could make this. 
