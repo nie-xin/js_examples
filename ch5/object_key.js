@@ -17,3 +17,6 @@ p1.name = "Rob";
 p1.age = 31;
 var p1keys = Object.keys(p1);
 console.log(p1keys);
+
+var keys = Object.getOwnPropertyNames(Person.prototype);
+console.log(keys);
