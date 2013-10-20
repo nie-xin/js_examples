@@ -16,13 +16,13 @@ I have 2 days delay for this section. It's not easy to stay focus with lots of u
 
 
 ## Week 3 & 4 (16/20/2013 ~ ):
-* Read chapter 6 of Professional JavaScript for Web Developers. NOTE: Only read the “Understanding Objects” section.
+* Read chapter 6 of Professional JavaScript for Web Developers. NOTE: Only read the “Understanding Objects” section. --- DONE
 
-* Read chapters 5 and 7 of Professional JavaScript for Web Developers.
+* Read chapters 5 and 7 of Professional JavaScript for Web Developers. --- ToDo
 
 * Return to Codecademy and complete the JavaScript track by working through sections 6, 7, and 8 (Data Structures to Object 2).
 
-* Read chapters 8, 9, 10, 11, 13, and 14 of Professional JavaScript for Web Developers.
+* Read chapters 8, 9, 10, 11, 13, and 14 of Professional JavaScript for Web Developers. --- ToDO
 
 * Follow this jQuery course—it is free: http://try.jquery.com/
 
