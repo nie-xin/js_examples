@@ -27,7 +27,7 @@ SubType.prototype.getSuperValue = function() {
 };*/
 
 // try to add new methods
-Subtype.prototype = {
+SubType.prototype = {
     getSubValue: function() {
         return this.subproperty;
     },
@@ -38,7 +38,16 @@ Subtype.prototype = {
 };
 
 var instance = new SubType();
-console.log(instance.getSuperValue());
+//console.log(instance.getSuperValue());
+
+console.log(instance instanceof Object);
+console.log(instance instanceof SuperType);
+console.log(instance instanceof SubType);
+
+console.log(Object.prototype.isPrototypeOf(instance));
+console.log(SuperType.prototype.isPrototypeOf(instance));
+console.log(SubType.prototype.isPrototypeOf(instance));
+
 
 /*console.log(instance.getSubValue());
 console.log(instance.getSuperValue());
