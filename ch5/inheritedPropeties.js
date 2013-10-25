@@ -7,4 +7,3 @@ console.log("toString" in school);
 
 console.log(school.hasOwnProperty("schoolName"));
 console.log(school.hasOwnProperty("toString"));
-
