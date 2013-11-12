@@ -1,6 +1,6 @@
 /**
- * Created by nie on 21/10/13.
- */
+* Created by nie on 21/10/13.
+*/
 var myFirstObject = {firstName: "Richard", favoriteAuthor: "Conrad"};
 
 var ageGroup = {30: "Children", 100:"Very Old"};
@@ -13,11 +13,3 @@ console.log(ageGroup["30"]);
 // person = "Bryant";
 
 // saved as reference
-var person = {name: "Kobe"};
-var anotherPerson = person;
-person.name = "Bryant";
-
-console.log(anotherPerson.name);
-console.log(person.name);
-
-
