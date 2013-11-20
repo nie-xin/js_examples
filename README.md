@@ -15,7 +15,7 @@ I believe that JS will be next big language. So I start to following the study p
 I have 2 days delay for this section. It's not easy to stay focus with lots of university courses. Anyway, making excuses is always easy. So I will try to catch up in next section.
 
 
-## Week 3 & 4 (16/20/2013 ~ ):
+## Week 3 & 4 (16/20/2013 ~ ): WTF, the book is too long, I had barely done ch5, ch6 in a month...How could you done this with all your university courses beside you?
 * Read chapter 6 of Professional JavaScript for Web Developers. NOTE: Only read the “Understanding Objects” section. --- DONE
 
 * Read chapters 5 and 7 of Professional JavaScript for Web Developers. --- ToDo
