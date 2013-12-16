@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Just a test</title>
+    </head>
+    <body>
+        <h1>What to buy</h1>
+        <p title="q gentle reminder">Don't forget to buy this stuff.</p>
+        <ul id="purchases">
+            <li>A tin of beans</li>
+            <li class="sale">Cheese</li>
+            <li class="sale important">Milk</li>
+        </ul>
+        <script>
+            var shopping = document.getElementById("purchases");
+            var items = shopping.getElementsByTagName("*");
+            alert(items.length);
+        </script>
+    </body>
+</html>
